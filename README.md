@@ -43,7 +43,7 @@ We presented this project at **AI Tinkerers (March 2025)**, hosted at **Mozilla*
 
 ## 🚀 Demo Walkthrough  
 
-🎥 **Watch the full demo video here** → [![Demo Video](https://img.youtube.com/vi/j8gUzAow5j8/maxresdefault.jpg)](https://youtu.be/j8gUzAow5j8)
+🎥 **Watch the full demo video here:** [![Demo Video](https://img.youtube.com/vi/j8gUzAow5j8/maxresdefault.jpg)](https://youtu.be/j8gUzAow5j8)
 
 ---
 
