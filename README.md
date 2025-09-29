@@ -69,8 +69,3 @@ Read the full paper here → [View of Building an Emphatic AI Coach & Agent](htt
 - **Feature Engineering & Synthetic Data**  
 
 ---
-
-## 📌 Citation  
-
-If you use this work in research, please cite:  
-
